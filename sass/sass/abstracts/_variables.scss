@@ -1,0 +1,33 @@
+$bp-tablet: 768px;
+$bp-tablet-horizontal: 1024px;
+$bp-desktop-xl: 1440px;
+
+$font: "Work Sans", sans-serif;
+
+$purple-950: #301534;
+$purple-600: #8B6990;
+$purple-100: #F8EEFF;
+
+$violet-600: #AD28EB; 
+
+
+.text-preset-1 {
+    font-size: 42px;
+    line-height: 66px;
+    letter-spacing: 0px;
+    font-weight: 700;
+}
+
+.text-preset-2 {
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    font-weight: 600;
+}
+
+.text-preset-3 {
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    font-weight: 400;
+}

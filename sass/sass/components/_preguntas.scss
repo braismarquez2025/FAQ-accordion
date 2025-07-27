@@ -1,0 +1,70 @@
+.container {
+    background-color: white;
+    margin: 40% 12px;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0px 0px 70px rgba(0, 0, 0, 0.3);
+
+    @include breakpoint(tablet) {
+        padding: 40px;
+        margin: 25% 10%;
+    }
+
+    @include breakpoint(tablethorizontal) {
+        padding: 40px;
+        margin: 20% 23%;
+    }
+
+    @include breakpoint(desktopxl) {
+        padding: 40px;
+        margin: 10% 30%;
+    }
+}
+
+.head {
+    display: flex;
+    margin-bottom: 24px;
+    gap: 24px;
+
+    &_title {
+        color: $purple-950;
+        margin: 0;
+    }
+}
+
+.pregunta_head {
+    display: flex;
+    margin-bottom: 24px;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+
+    &-title {
+        color: $purple-950;
+
+        &:hover {
+            color: $violet-600;
+        }
+    }
+
+    &-img {
+        width: 24px;
+        height: 24px;
+        transition: transform 0.3s ease;
+    }
+}
+
+.respuesta {
+    color: $purple-600;
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: all 0.3s ease;
+    margin-top: 0;
+}
+
+.pregunta.abierta .respuesta {
+    max-height: 500px; /* suficiente para mostrar */
+    opacity: 1;
+    margin-top: 0.5rem;
+  }
