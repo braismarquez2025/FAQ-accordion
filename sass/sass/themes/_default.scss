@@ -2,12 +2,12 @@ body {
     overflow-x: hidden;
     font-family: $font;
 
-    background-image: url(../../../images/background-pattern-mobile.svg);
+    background-image: url(../images/background-pattern-mobile.svg);
     background-repeat: no-repeat;
     background-size: contain;
 
     @include breakpoint(tablet) {
-        background-image: url(../../../images/background-pattern-desktop.svg);
+        background-image: url(../images/background-pattern-desktop.svg);
 
     }
 } 

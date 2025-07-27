@@ -92,13 +92,13 @@
 body {
   overflow-x: hidden;
   font-family: "Work Sans", sans-serif;
-  background-image: url(../../../images/background-pattern-mobile.svg);
+  background-image: url(../images/background-pattern-mobile.svg);
   background-repeat: no-repeat;
   background-size: contain;
 }
 @media (min-width: 768px) {
   body {
-    background-image: url(../../../images/background-pattern-desktop.svg);
+    background-image: url(../images/background-pattern-desktop.svg);
   }
 }
 
