@@ -5,7 +5,7 @@ Esta es una solución al [desafío de FAQ accordion en Frontend Mentor](https://
 ## Tabla de contenido
 
 - [Descripción general](#descripcion-general)
-  - [Captura de pantalla](#captura-de-pantalla)
+n.git  - [Captura de pantalla](#captura-de-pantalla)
   - [Links](#links)
   - [Llevado a cabo con](#llevado-a-cabo-con)
 - [Autor](#autor)
@@ -19,8 +19,8 @@ Esta es una solución al [desafío de FAQ accordion en Frontend Mentor](https://
 
 
 ### 🔗 Links
-- [URL de la solución]()
-- [URL del sitio en vivo](https://braismarquez2025.github.io/social-links-profile-main/)
+- [URL de la solución](https://www.frontendmentor.io/solutions/faq-accordion-solution-kmH1jSCKTI)
+- [URL del sitio en vivo](https://braismarquez2025.github.io/FAQ-accordion/)
 
 
 ### 🛠 Llevado a cabo con
