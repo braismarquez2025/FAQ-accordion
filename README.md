@@ -5,7 +5,7 @@ Esta es una solución al [desafío de FAQ accordion en Frontend Mentor](https://
 ## Tabla de contenido
 
 - [Descripción general](#descripcion-general)
-n.git  - [Captura de pantalla](#captura-de-pantalla)
+- [Captura de pantalla](#captura-de-pantalla)
   - [Links](#links)
   - [Llevado a cabo con](#llevado-a-cabo-con)
 - [Autor](#autor)
