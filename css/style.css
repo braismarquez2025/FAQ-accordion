@@ -29,13 +29,13 @@
 @media (min-width: 768px) {
   .container {
     padding: 40px;
-    margin: 25% 10%;
+    margin: 15% 10%;
   }
 }
 @media (min-width: 1024px) {
   .container {
     padding: 40px;
-    margin: 20% 23%;
+    margin: 13% 23%;
   }
 }
 @media (min-width: 1440px) {
